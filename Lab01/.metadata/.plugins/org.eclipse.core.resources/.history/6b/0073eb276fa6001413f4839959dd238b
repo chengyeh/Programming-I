@@ -1,0 +1,7 @@
+
+public class MySecond {
+        
+	    public static void main(Sting[] args){   
+	           System.out.println("This is my second java program");
+	    }       
+}

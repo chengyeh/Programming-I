@@ -1,0 +1,12 @@
+/* -----------------------------------------------------------------------------
+ *
+ * File Name: ColorRange.java
+ * Author: Cheng Yeh Lee chengyeh@ku.edu		
+ * Assignment:   EECS-168/169 Lab 3
+ * Description:  This program will compute the area of a circle with a hard-coded radius.
+ * Date: 2/28/15
+ *
+ ---------------------------------------------------------------------------- */
+public class ColorRange {
+
+}

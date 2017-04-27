@@ -1,0 +1,20 @@
+/* -----------------------------------------------------------------------------
+ *
+ * File Name:  ConvertTemperature.java
+ * Author: Cheng-Yeh Lee 
+ * Assignment:   EECS-168/169 Lab 2
+ * Description:  This program will convert the input temperature from Fahrenheit to Celsius.
+ * Date: 2/3/15
+ *
+ ---------------------------------------------------------------------------- */
+
+import java.util.Scanner
+
+public class ConvertTemperature {
+	public static void main(String[] args)
+	{
+		
+	}
+	
+
+}

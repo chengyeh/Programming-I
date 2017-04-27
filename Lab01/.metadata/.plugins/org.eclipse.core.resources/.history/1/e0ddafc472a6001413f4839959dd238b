@@ -1,0 +1,14 @@
+
+public class Ex2 {
+	
+        public static void main(String[] args){
+        	   System.out.println("My name is Cheng Yeh Lee.");
+        	   System.out.println("I am a pre-Engineering major.");
+        	   System.out.println("My hobbits are:\n");
+        	   System.out.println("Playing Video Games");
+        	   System.out.println("Watching movie");
+        	   System.out.println("\nListening to msic")
+        	   System.out.println("Goodbye")
+        	   
+        }
+}
